@@ -15,4 +15,5 @@ The lists are organized by service or platform, and are tested before publish.
 
 ### List of Services:
 - DoH Servers
+- Google Meet
 - Telegram
